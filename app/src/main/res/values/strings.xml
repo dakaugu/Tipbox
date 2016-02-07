@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tipbox</string>
+
+    <!--toolbar menu-->
+    <string name="action_clear">Clear</string>
+    <string name="action_settings">Settings</string>
+</resources>

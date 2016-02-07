@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style
+        name="BaseTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimary">#47525d</item>
+        <item name="colorControlHighlight">#7b8994</item>
+        <item name="colorControlActivated">#00ffffff</item>
+        <!--<item name="colorControlNormal"></item>
+
+        <item name="colorControlHighlight"></item>
+        <item name="preferenceTheme"></item>-->
+    </style>
+</resources>
